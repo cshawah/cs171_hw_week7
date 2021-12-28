@@ -1,0 +1,43 @@
+
+/* ADD YOUR STYLES HERE */
+
+h1 {
+    padding: 15px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #1f3975;
+    color: white;
+    font-size: 20pt;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bolder;
+}
+
+h3 {
+    margin-left: 90px;
+    margin-bottom: 20px;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15pt;
+
+}
+
+.barlabs {
+    font-size: 7pt;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.bar {
+    fill: cornflowerblue;
+    stroke: black;
+}
+
+.area {
+    fill: cornflowerblue;
+}
+
+.bargraph-title {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bolder;
+}
+
+
+
